@@ -1,0 +1,1 @@
+enum LogLevelEnum{debug,info,verbose,error}
