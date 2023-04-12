@@ -1,10 +1,11 @@
 # flutter_sample
 
 A new Flutter project.
+can see full code in VSCode preview from here: https://github1s.com/AhmedKhattab95/flutter_test
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a a test Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
